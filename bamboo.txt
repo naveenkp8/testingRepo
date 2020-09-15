@@ -1,1 +1,2 @@
 First line of Bamboo file
+Second line of Bamboo file line 2
